@@ -1,0 +1,5 @@
+Changelog for molt.
+
+molt 1.0.0
+==============
+- Initial release.
